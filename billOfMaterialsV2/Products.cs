@@ -19,8 +19,8 @@ namespace billOfMaterialsV2
 
         private void metroTile1_Click(object sender, EventArgs e)
         {
-            this.Close();
             new home().Show();
+            this.Close();
         }
     }
 }

@@ -39,6 +39,7 @@ namespace billOfMaterialsV2
         private void metroTile1_Click(object sender, EventArgs e)
         {
             new Materials().Show();
+            this.Close();
         }
 
         private void metroTile2_Click(object sender, EventArgs e)

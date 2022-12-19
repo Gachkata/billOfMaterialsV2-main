@@ -16,5 +16,36 @@ namespace billOfMaterialsV2
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void metroTextBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroTile1_Click(object sender, EventArgs e)
+        {
+            new home().Show();
+            this.Close();
+        }
+
+        private void metroTile3_Click(object sender, EventArgs e)
+        {
+            new CreateMaterial().Show();
+        }
     }
 }

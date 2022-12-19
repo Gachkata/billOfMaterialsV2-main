@@ -61,6 +61,12 @@
     <Compile Include="Bill of Materials - Team 15.Designer.cs">
       <DependentUpon>Bill of Materials - Team 15.cs</DependentUpon>
     </Compile>
+    <Compile Include="CreateMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateMaterial.Designer.cs">
+      <DependentUpon>CreateMaterial.cs</DependentUpon>
+    </Compile>
     <Compile Include="Expenses.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,8 +96,14 @@
     <EmbeddedResource Include="Bill of Materials - Team 15.resx">
       <DependentUpon>Bill of Materials - Team 15.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CreateMaterial.resx">
+      <DependentUpon>CreateMaterial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="home.resx">
       <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Materials.resx">
+      <DependentUpon>Materials.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Products.resx">
       <DependentUpon>Products.cs</DependentUpon>

@@ -31,3 +31,5 @@ C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\De
 C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\Debug\billOfMaterialsV2.exe
 C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\Debug\billOfMaterialsV2.pdb
 C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\Debug\billOfMaterialsV2.Products.resources
+C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\Debug\billOfMaterialsV2.CreateMaterial.resources
+C:\Users\Todor\Desktop\unwe22222\billOfMaterialsV2-main\billOfMaterialsV2\obj\Debug\billOfMaterialsV2.Materials.resources
