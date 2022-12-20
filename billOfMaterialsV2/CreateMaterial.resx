@@ -402,7 +402,7 @@
   <data name="metroTile3.TileImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
-        rwAAAK8BK7AVuQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAN4SURBVFhHxVdL
+        rgAAAK4B+ff3XQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAN4SURBVFhHxVdL
         TxNRFJ6hMJZ2oKU8W0qLSky0KGWl0ogaKEQqBU2MS3HbGKgRfMQEu1RMwGDiL1E3Ghcmxo2PlY+NUTc+
         Fi4QEheK1/sdehuCZ9rOVNOTfOm9c+95zJ1zvnuqlSstJ7PBxsSZ2/Wx4bd1oT1rNd7Auu6qEwDGRii2
         Vh9LvjETU8vYm1erXPxjc3FPbPSVbtQLOS0L2ItAfcnpITl3Jo2juYC3f/KxbngKho2uuGg6flUEs/dF
@@ -16659,6 +16659,9 @@
   </data>
   <data name="$this.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>

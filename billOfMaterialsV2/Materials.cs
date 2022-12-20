@@ -47,5 +47,12 @@ namespace billOfMaterialsV2
         {
             new CreateMaterial().Show();
         }
+
+        private void Materials_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'dataSet1.MATERIALS' table. You can move, or remove it, as needed.
+            this.mATERIALSTableAdapter.Fill(this.dataSet1.MATERIALS);
+
+        }
     }
 }
